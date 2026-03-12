@@ -1,5 +1,4 @@
 late String statusSistema;
-
 void main() {
   statusSistema = 'Inicializado';
 

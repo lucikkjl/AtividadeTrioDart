@@ -9,7 +9,6 @@ Future<Weather> buscarClima(String cidade) async {
   
   return clima;
 }
-
 void main() async {
   try {
 
