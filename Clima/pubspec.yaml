@@ -1,0 +1,8 @@
+name: atividade_trio_dart
+description: Lista de exercícios de Dart Avançado.
+
+environment:
+  sdk: '^3.0.0'
+
+dependencies:
+  weather: ^3.0.0
